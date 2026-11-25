@@ -2,8 +2,6 @@
 
 Ein Lua-Widget für den **Kumiki** (ab Firmware `0.15.0`), das alle 12 Stunden oder per Knopfdruck ein zufälliges deutsches Star-Trek-Zitat aus einer Sammlung von 111 Zitaten anzeigt.
 
-![Vorschau Daily Starfleet](assets/preview.png)
-
 ## Features
 
 * **111 deutsche Zitate** von Spock, Kirk, Picard, Archer, Pike, Sisko, Janeway, Lorca, Saru und Michael Burnham.
@@ -28,8 +26,6 @@ Ein Lua-Widget für den **Kumiki** (ab Firmware `0.15.0`), das alle 12 Stunden o
 3. **Freigaben (wichtig!):**
    * Setze zwingend den Haken bei **„HTTPS-Anfragen erlauben“** für `raw.githubusercontent.com`. Ohne diese Freigabe darf der Kumiki keine Zitate von GitHub nachladen.
 4. Klicke unten auf **Speichern**.
-
-![Kumiki Einstellungen und Freigaben](assets/settings.png)
 
 ## Eigene Zitate verwenden
 
